@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="vi">
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <h2>JS Object</h2>
+    </head>
+    <body>
+        <p id="demo01"></p>
+        <p id="demo02"></p>
+        <p id="demo03"></p>
+        <p id="demo04"></p>
+       <script>
+           const cat={
+            ten:"den",
+            long:"trang",
+            kg:2,
+            loai:"tam the",
+           fullname:function(){
+               return "ten: "+this.ten+" long: "+this.long+" kg "+this.kg+" loai "+this.loai;
+           },
+           get Ten(){
+               return this.ten;
+           },
+           set setten(a){
+               this.ten=a;
+           }
+           
+        };
+        function Cat(t,l,k,li){
+            this.ten=t;
+            this.long=l;
+            this.kg=k;
+            this.loai=li;
+        }
+        const CT=new Cat("Do","Vang",5,"tam the")
+        document.getElementById("demo01").innerHTML=cat.fullname();
+        document.getElementById("demo02").innerHTML=cat.ten;
+        cat.setten="xanh";
+        document.getElementById("demo03").innerHTML=cat.fullname();
+        document.getElementById("demo04").innerHTML="ten: "+CT.ten+" long: "+CT.long+" kg "+CT.kg+" loai "+CT.loai;
+           
+       </script>
+    </body>
+</html>

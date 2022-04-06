@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="vi">
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <h1>Local Storage</h1>
+    </head>
+    <body>
+        <p id="demo01"></p>
+        <p id="demo02"></p>
+        <script>
+          localStorage.setItem('ten','Ha Anh Tuan');
+          let name =localStorage.getItem('ten');
+           document.getElementById("demo01").innerHTML="ten: "+name;
+        </script>    
+    </body>
+</html>
