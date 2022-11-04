@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-04T03:06:46.628Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="uotNrXvPIhtxkf8peLxP" version="20.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-04T03:15:17.769Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="X64U84CchUt2gdWFjQGv" version="20.5.1" type="github">
   <diagram id="G98q_UxKe3HcsfpWrHot" name="Page-1">
     <mxGraphModel dx="1822" dy="1194" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="583" pageHeight="413" math="0" shadow="0">
       <root>
@@ -267,25 +267,145 @@
           <mxGeometry x="-90" y="2273.75" width="260" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jDLYK8TEgY8uNV4DHBNw-107" value="&lt;font style=&quot;font-size: 28px;&quot;&gt;3nd round&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="410" y="2440" width="150" height="50" as="geometry" />
+          <mxGeometry x="410" y="2480" width="150" height="50" as="geometry" />
         </mxCell>
         <mxCell id="jDLYK8TEgY8uNV4DHBNw-108" value="Thread 1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="300" y="2515" width="60" height="30" as="geometry" />
+          <mxGeometry x="300" y="2555" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="jDLYK8TEgY8uNV4DHBNw-109" value="Thread 2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="300" y="2672.5" width="60" height="30" as="geometry" />
+          <mxGeometry x="300" y="2712.5" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="jDLYK8TEgY8uNV4DHBNw-110" value="Thread 3" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="300" y="2822.5" width="60" height="30" as="geometry" />
+          <mxGeometry x="300" y="2862.5" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="jDLYK8TEgY8uNV4DHBNw-111" value="&lt;pre style=&quot;color: rgb(32, 33, 36); unicode-bidi: isolate; line-height: 36px; border: none; padding: 2px 0.14em 2px 0px; position: relative; margin-top: -2px; margin-bottom: -2px; resize: none; font-family: inherit; overflow: hidden; width: 270.014px; overflow-wrap: break-word;&quot; dir=&quot;ltr&quot; id=&quot;tw-target-text&quot; data-placeholder=&quot;Bản dịch&quot; class=&quot;tw-data-text tw-text-large tw-ta&quot;&gt;array=[1,1,1,2,2,2,2,3,3,3,3,4,4,5,6]&lt;/pre&gt;array_1=[30]&amp;nbsp;&lt;br&gt;total_array_1=30" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="370" y="2500" width="260" height="60" as="geometry" />
+          <mxGeometry x="370" y="2540" width="260" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jDLYK8TEgY8uNV4DHBNw-112" value="&lt;pre style=&quot;color: rgb(32, 33, 36); unicode-bidi: isolate; line-height: 36px; border: none; padding: 2px 0.14em 2px 0px; position: relative; margin-top: -2px; margin-bottom: -2px; resize: none; font-family: inherit; overflow: hidden; width: 270.014px; overflow-wrap: break-word;&quot; dir=&quot;ltr&quot; id=&quot;tw-target-text&quot; data-placeholder=&quot;Bản dịch&quot; class=&quot;tw-data-text tw-text-large tw-ta&quot;&gt;array=[1,1,1,2,2,2,2,3,3,3,3,4,4,5]&lt;/pre&gt;array_2=[10,8,6]&amp;nbsp;&lt;br&gt;total_array_2=24" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="370" y="2657.5" width="260" height="60" as="geometry" />
+          <mxGeometry x="370" y="2697.5" width="260" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jDLYK8TEgY8uNV4DHBNw-113" value="&lt;pre style=&quot;color: rgb(32, 33, 36); unicode-bidi: isolate; line-height: 36px; border: none; padding: 2px 0.14em 2px 0px; position: relative; margin-top: -2px; margin-bottom: -2px; resize: none; font-family: inherit; overflow: hidden; width: 270.014px; overflow-wrap: break-word;&quot; dir=&quot;ltr&quot; id=&quot;tw-target-text&quot; data-placeholder=&quot;Bản dịch&quot; class=&quot;tw-data-text tw-text-large tw-ta&quot;&gt;array=[1,1,1,2,2,2,2,3,3,3,3,4,4]&lt;/pre&gt;array_3=[9,7,5]&amp;nbsp;&lt;br&gt;total_array_3=21" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="370" y="2807.5" width="260" height="60" as="geometry" />
+          <mxGeometry x="370" y="2847.5" width="260" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jDLYK8TEgY8uNV4DHBNw-114" value="&lt;font style=&quot;font-size: 28px;&quot;&gt;4nd round&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="410" y="3080" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="jDLYK8TEgY8uNV4DHBNw-115" value="Thread 1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="300" y="3155" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jDLYK8TEgY8uNV4DHBNw-116" value="Thread 2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="300" y="3312.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jDLYK8TEgY8uNV4DHBNw-117" value="Thread 3" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="300" y="3462.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jDLYK8TEgY8uNV4DHBNw-118" value="&lt;pre style=&quot;color: rgb(32, 33, 36); unicode-bidi: isolate; line-height: 36px; border: none; padding: 2px 0.14em 2px 0px; position: relative; margin-top: -2px; margin-bottom: -2px; resize: none; font-family: inherit; overflow: hidden; width: 270.014px; overflow-wrap: break-word;&quot; dir=&quot;ltr&quot; id=&quot;tw-target-text&quot; data-placeholder=&quot;Bản dịch&quot; class=&quot;tw-data-text tw-text-large tw-ta&quot;&gt;array=[1,1,1,2,2,2,2,3,3,3,3,4,4]&lt;/pre&gt;array_1=[30]&amp;nbsp;&lt;br&gt;total_array_1=30" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="370" y="3140" width="260" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jDLYK8TEgY8uNV4DHBNw-119" value="&lt;pre style=&quot;color: rgb(32, 33, 36); unicode-bidi: isolate; line-height: 36px; border: none; padding: 2px 0.14em 2px 0px; position: relative; margin-top: -2px; margin-bottom: -2px; resize: none; font-family: inherit; overflow: hidden; width: 270.014px; overflow-wrap: break-word;&quot; dir=&quot;ltr&quot; id=&quot;tw-target-text&quot; data-placeholder=&quot;Bản dịch&quot; class=&quot;tw-data-text tw-text-large tw-ta&quot;&gt;array=[1,1,1,2,2,2,2,3,3,3,3,4]&lt;/pre&gt;array_2=[10,8,6,4]&amp;nbsp;&lt;br&gt;total_array_2=28" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="370" y="3297.5" width="260" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jDLYK8TEgY8uNV4DHBNw-120" value="&lt;pre style=&quot;color: rgb(32, 33, 36); unicode-bidi: isolate; line-height: 36px; border: none; padding: 2px 0.14em 2px 0px; position: relative; margin-top: -2px; margin-bottom: -2px; resize: none; font-family: inherit; overflow: hidden; width: 270.014px; overflow-wrap: break-word;&quot; dir=&quot;ltr&quot; id=&quot;tw-target-text&quot; data-placeholder=&quot;Bản dịch&quot; class=&quot;tw-data-text tw-text-large tw-ta&quot;&gt;array=[1,1,1,2,2,2,2,3,3,3,3]&lt;/pre&gt;array_3=[9,7,5,4]&amp;nbsp;&lt;br&gt;total_array_3=25" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="370" y="3447.5" width="260" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jDLYK8TEgY8uNV4DHBNw-121" value="&lt;font style=&quot;font-size: 28px;&quot;&gt;5nd round&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="410" y="3660" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="jDLYK8TEgY8uNV4DHBNw-122" value="Thread 1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="300" y="3735" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jDLYK8TEgY8uNV4DHBNw-123" value="Thread 2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="300" y="3892.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jDLYK8TEgY8uNV4DHBNw-124" value="Thread 3" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="300" y="4042.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jDLYK8TEgY8uNV4DHBNw-125" value="&lt;pre style=&quot;color: rgb(32, 33, 36); unicode-bidi: isolate; line-height: 36px; border: none; padding: 2px 0.14em 2px 0px; position: relative; margin-top: -2px; margin-bottom: -2px; resize: none; font-family: inherit; overflow: hidden; width: 270.014px; overflow-wrap: break-word;&quot; dir=&quot;ltr&quot; id=&quot;tw-target-text&quot; data-placeholder=&quot;Bản dịch&quot; class=&quot;tw-data-text tw-text-large tw-ta&quot;&gt;array=[1,1,1,2,2,2,2,3,3,3]&lt;/pre&gt;array_1=[30,3]&amp;nbsp;&lt;br&gt;total_array_1=33" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="370" y="3720" width="260" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jDLYK8TEgY8uNV4DHBNw-126" value="&lt;pre style=&quot;color: rgb(32, 33, 36); unicode-bidi: isolate; line-height: 36px; border: none; padding: 2px 0.14em 2px 0px; position: relative; margin-top: -2px; margin-bottom: -2px; resize: none; font-family: inherit; overflow: hidden; width: 270.014px; overflow-wrap: break-word;&quot; dir=&quot;ltr&quot; id=&quot;tw-target-text&quot; data-placeholder=&quot;Bản dịch&quot; class=&quot;tw-data-text tw-text-large tw-ta&quot;&gt;array=[1,1,1,2,2,2,2,3,3,3]&lt;/pre&gt;array_2=[10,8,6,4]&amp;nbsp;&lt;br&gt;total_array_2=28" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="370" y="3877.5" width="260" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jDLYK8TEgY8uNV4DHBNw-127" value="&lt;pre style=&quot;color: rgb(32, 33, 36); unicode-bidi: isolate; line-height: 36px; border: none; padding: 2px 0.14em 2px 0px; position: relative; margin-top: -2px; margin-bottom: -2px; resize: none; font-family: inherit; overflow: hidden; width: 270.014px; overflow-wrap: break-word;&quot; dir=&quot;ltr&quot; id=&quot;tw-target-text&quot; data-placeholder=&quot;Bản dịch&quot; class=&quot;tw-data-text tw-text-large tw-ta&quot;&gt;array=[1,1,1,2,2,2,2,3,3]&lt;/pre&gt;array_3=[9,7,5,4,3]&amp;nbsp;&lt;br&gt;total_array_3=28" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="370" y="4027.5" width="260" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jDLYK8TEgY8uNV4DHBNw-128" value="&lt;font style=&quot;font-size: 28px;&quot;&gt;6nd round&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="410" y="4270" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="jDLYK8TEgY8uNV4DHBNw-129" value="Thread 1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="300" y="4345" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jDLYK8TEgY8uNV4DHBNw-130" value="Thread 2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="300" y="4502.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jDLYK8TEgY8uNV4DHBNw-131" value="Thread 3" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="300" y="4652.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jDLYK8TEgY8uNV4DHBNw-132" value="&lt;pre style=&quot;color: rgb(32, 33, 36); unicode-bidi: isolate; line-height: 36px; border: none; padding: 2px 0.14em 2px 0px; position: relative; margin-top: -2px; margin-bottom: -2px; resize: none; font-family: inherit; overflow: hidden; width: 270.014px; overflow-wrap: break-word;&quot; dir=&quot;ltr&quot; id=&quot;tw-target-text&quot; data-placeholder=&quot;Bản dịch&quot; class=&quot;tw-data-text tw-text-large tw-ta&quot;&gt;array=[1,1,1,2,2,2,2,3,3]&lt;/pre&gt;array_1=[30,3]&amp;nbsp;&lt;br&gt;total_array_1=33" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="370" y="4330" width="260" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jDLYK8TEgY8uNV4DHBNw-133" value="&lt;pre style=&quot;color: rgb(32, 33, 36); unicode-bidi: isolate; line-height: 36px; border: none; padding: 2px 0.14em 2px 0px; position: relative; margin-top: -2px; margin-bottom: -2px; resize: none; font-family: inherit; overflow: hidden; width: 270.014px; overflow-wrap: break-word;&quot; dir=&quot;ltr&quot; id=&quot;tw-target-text&quot; data-placeholder=&quot;Bản dịch&quot; class=&quot;tw-data-text tw-text-large tw-ta&quot;&gt;array=[1,1,1,2,2,2,2,3]&lt;/pre&gt;array_2=[10,8,6,4,3]&amp;nbsp;&lt;br&gt;total_array_2=31" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="370" y="4487.5" width="260" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jDLYK8TEgY8uNV4DHBNw-134" value="&lt;pre style=&quot;color: rgb(32, 33, 36); unicode-bidi: isolate; line-height: 36px; border: none; padding: 2px 0.14em 2px 0px; position: relative; margin-top: -2px; margin-bottom: -2px; resize: none; font-family: inherit; overflow: hidden; width: 270.014px; overflow-wrap: break-word;&quot; dir=&quot;ltr&quot; id=&quot;tw-target-text&quot; data-placeholder=&quot;Bản dịch&quot; class=&quot;tw-data-text tw-text-large tw-ta&quot;&gt;array=[1,1,1,2,2,2,2]&lt;/pre&gt;array_3=[9,7,5,4,3,3]&amp;nbsp;&lt;br&gt;total_array_3=31" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="370" y="4637.5" width="260" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jDLYK8TEgY8uNV4DHBNw-135" value="&lt;font style=&quot;font-size: 28px;&quot;&gt;7nd round&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="415" y="4850" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="jDLYK8TEgY8uNV4DHBNw-136" value="Thread 1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="305" y="4925" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jDLYK8TEgY8uNV4DHBNw-137" value="Thread 2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="305" y="5082.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jDLYK8TEgY8uNV4DHBNw-138" value="Thread 3" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="305" y="5232.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jDLYK8TEgY8uNV4DHBNw-139" value="&lt;pre style=&quot;color: rgb(32, 33, 36); unicode-bidi: isolate; line-height: 36px; border: none; padding: 2px 0.14em 2px 0px; position: relative; margin-top: -2px; margin-bottom: -2px; resize: none; font-family: inherit; overflow: hidden; width: 270.014px; overflow-wrap: break-word;&quot; dir=&quot;ltr&quot; id=&quot;tw-target-text&quot; data-placeholder=&quot;Bản dịch&quot; class=&quot;tw-data-text tw-text-large tw-ta&quot;&gt;array=[1,1,1,2,2,2,2]&lt;/pre&gt;array_1=[30,3]&amp;nbsp;&lt;br&gt;total_array_1=33" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="375" y="4910" width="260" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jDLYK8TEgY8uNV4DHBNw-140" value="&lt;pre style=&quot;color: rgb(32, 33, 36); unicode-bidi: isolate; line-height: 36px; border: none; padding: 2px 0.14em 2px 0px; position: relative; margin-top: -2px; margin-bottom: -2px; resize: none; font-family: inherit; overflow: hidden; width: 270.014px; overflow-wrap: break-word;&quot; dir=&quot;ltr&quot; id=&quot;tw-target-text&quot; data-placeholder=&quot;Bản dịch&quot; class=&quot;tw-data-text tw-text-large tw-ta&quot;&gt;array=[1,1,1,2,2,2]&lt;/pre&gt;array_2=[10,8,6,4,3,2]&amp;nbsp;&lt;br&gt;total_array_2=33" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="375" y="5067.5" width="260" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jDLYK8TEgY8uNV4DHBNw-141" value="&lt;pre style=&quot;color: rgb(32, 33, 36); unicode-bidi: isolate; line-height: 36px; border: none; padding: 2px 0.14em 2px 0px; position: relative; margin-top: -2px; margin-bottom: -2px; resize: none; font-family: inherit; overflow: hidden; width: 270.014px; overflow-wrap: break-word;&quot; dir=&quot;ltr&quot; id=&quot;tw-target-text&quot; data-placeholder=&quot;Bản dịch&quot; class=&quot;tw-data-text tw-text-large tw-ta&quot;&gt;array=[1,1,1,2,2]&lt;/pre&gt;array_3=[9,7,5,4,3,3,2]&amp;nbsp;&lt;br&gt;total_array_3=33" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="375" y="5217.5" width="260" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jDLYK8TEgY8uNV4DHBNw-142" value="&lt;font style=&quot;font-size: 28px;&quot;&gt;8nd round&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="410" y="5390" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="jDLYK8TEgY8uNV4DHBNw-143" value="Thread 1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="300" y="5465" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jDLYK8TEgY8uNV4DHBNw-144" value="Thread 2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="300" y="5622.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jDLYK8TEgY8uNV4DHBNw-145" value="Thread 3" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="300" y="5772.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jDLYK8TEgY8uNV4DHBNw-146" value="&lt;pre style=&quot;color: rgb(32, 33, 36); unicode-bidi: isolate; line-height: 36px; border: none; padding: 2px 0.14em 2px 0px; position: relative; margin-top: -2px; margin-bottom: -2px; resize: none; font-family: inherit; overflow: hidden; width: 270.014px; overflow-wrap: break-word;&quot; dir=&quot;ltr&quot; id=&quot;tw-target-text&quot; data-placeholder=&quot;Bản dịch&quot; class=&quot;tw-data-text tw-text-large tw-ta&quot;&gt;array=[1,1,1,2]&lt;/pre&gt;array_1=[30,3,2]&amp;nbsp;&lt;br&gt;total_array_1=35" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="370" y="5450" width="260" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jDLYK8TEgY8uNV4DHBNw-147" value="&lt;pre style=&quot;color: rgb(32, 33, 36); unicode-bidi: isolate; line-height: 36px; border: none; padding: 2px 0.14em 2px 0px; position: relative; margin-top: -2px; margin-bottom: -2px; resize: none; font-family: inherit; overflow: hidden; width: 270.014px; overflow-wrap: break-word;&quot; dir=&quot;ltr&quot; id=&quot;tw-target-text&quot; data-placeholder=&quot;Bản dịch&quot; class=&quot;tw-data-text tw-text-large tw-ta&quot;&gt;array=[1,1,1]&lt;/pre&gt;array_2=[10,8,6,4,3,2,2]&amp;nbsp;&lt;br&gt;total_array_2=35" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="370" y="5607.5" width="260" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jDLYK8TEgY8uNV4DHBNw-148" value="&lt;pre style=&quot;color: rgb(32, 33, 36); unicode-bidi: isolate; line-height: 36px; border: none; padding: 2px 0.14em 2px 0px; position: relative; margin-top: -2px; margin-bottom: -2px; resize: none; font-family: inherit; overflow: hidden; width: 270.014px; overflow-wrap: break-word;&quot; dir=&quot;ltr&quot; id=&quot;tw-target-text&quot; data-placeholder=&quot;Bản dịch&quot; class=&quot;tw-data-text tw-text-large tw-ta&quot;&gt;array=[1,1]&lt;/pre&gt;array_3=[9,7,5,4,3,3,2,1]&amp;nbsp;&lt;br&gt;total_array_3=34" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="370" y="5757.5" width="260" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jDLYK8TEgY8uNV4DHBNw-149" value="&lt;font style=&quot;font-size: 28px;&quot;&gt;9nd round&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="410" y="5940" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="jDLYK8TEgY8uNV4DHBNw-150" value="Thread 1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="300" y="6015" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jDLYK8TEgY8uNV4DHBNw-151" value="Thread 2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="300" y="6172.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jDLYK8TEgY8uNV4DHBNw-153" value="&lt;pre style=&quot;color: rgb(32, 33, 36); unicode-bidi: isolate; line-height: 36px; border: none; padding: 2px 0.14em 2px 0px; position: relative; margin-top: -2px; margin-bottom: -2px; resize: none; font-family: inherit; overflow: hidden; width: 270.014px; overflow-wrap: break-word;&quot; dir=&quot;ltr&quot; id=&quot;tw-target-text&quot; data-placeholder=&quot;Bản dịch&quot; class=&quot;tw-data-text tw-text-large tw-ta&quot;&gt;array=[1]&lt;/pre&gt;array_1=[30,3,2,1]&amp;nbsp;&lt;br&gt;total_array_1=36" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="370" y="6000" width="260" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jDLYK8TEgY8uNV4DHBNw-154" value="&lt;pre style=&quot;color: rgb(32, 33, 36); unicode-bidi: isolate; line-height: 36px; border: none; padding: 2px 0.14em 2px 0px; position: relative; margin-top: -2px; margin-bottom: -2px; resize: none; font-family: inherit; overflow: hidden; width: 270.014px; overflow-wrap: break-word;&quot; dir=&quot;ltr&quot; id=&quot;tw-target-text&quot; data-placeholder=&quot;Bản dịch&quot; class=&quot;tw-data-text tw-text-large tw-ta&quot;&gt;array=[]&lt;/pre&gt;array_2=[10,8,6,4,3,2,2,1]&amp;nbsp;&lt;br&gt;total_array_2=36&lt;br&gt;end round" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="370" y="6157.5" width="260" height="92.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
