@@ -1,26 +1,17 @@
-<mxfile host="app.diagrams.net" modified="2022-11-04T01:37:27.780Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="YcDfmLq3Umeml9KvBY0z" version="20.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-04T01:44:01.169Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="9dkpzoU_5UxnUxv4bLwz" version="20.5.1" type="github">
   <diagram id="G98q_UxKe3HcsfpWrHot" name="Page-1">
     <mxGraphModel dx="1422" dy="1894" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="jDLYK8TEgY8uNV4DHBNw-1" value="Thread 1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry y="315" width="60" height="30" as="geometry" />
+          <mxGeometry x="10" y="350" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="jDLYK8TEgY8uNV4DHBNw-2" value="Thread 2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry y="445" width="60" height="30" as="geometry" />
+          <mxGeometry x="10" y="480" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="jDLYK8TEgY8uNV4DHBNw-3" value="Thread 3" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry y="575" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="jDLYK8TEgY8uNV4DHBNw-4" value="0s" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="300" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="jDLYK8TEgY8uNV4DHBNw-5" value="0s" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="430" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="jDLYK8TEgY8uNV4DHBNw-6" value="0s" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="565" width="120" height="60" as="geometry" />
+          <mxGeometry x="10" y="610" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="jDLYK8TEgY8uNV4DHBNw-7" value="array=[1,1,1,2,2,2,2,3,3,3,3,4,4,5,6,7,8,9,10,30]" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="-120" width="610" height="60" as="geometry" />
@@ -57,6 +48,21 @@
         </mxCell>
         <mxCell id="jDLYK8TEgY8uNV4DHBNw-18" value="number 30 repeat 1" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="490" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jDLYK8TEgY8uNV4DHBNw-20" value="rearrange from the list of elements of the array above into 3 other arrays and their sums are as close together as possible" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="260" y="210" width="380" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jDLYK8TEgY8uNV4DHBNw-21" value="First we make the sum of an array equal to 0" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="10" y="300" width="270" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jDLYK8TEgY8uNV4DHBNw-22" value="array_1=[]&amp;nbsp;&lt;br&gt;count_array_1=0" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="335" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jDLYK8TEgY8uNV4DHBNw-23" value="array_2=[]&amp;nbsp;&lt;br&gt;count_array_2=0" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="465" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jDLYK8TEgY8uNV4DHBNw-24" value="array_3=[]&amp;nbsp;&lt;br&gt;count_array_3=0" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="595" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
