@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-18T02:05:27.318Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="EXiJzjRb3Wb4Z1SLIIf9" version="20.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-18T02:10:40.753Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="sgvY9R8BeiWtmL9YNwf8" version="20.5.1" type="github">
   <diagram id="RsbQqtbDM5Cp6RjnX3xr" name="Page-1">
     <mxGraphModel dx="1422" dy="1620" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="583" pageHeight="413" math="0" shadow="0">
       <root>
@@ -87,6 +87,9 @@
         </mxCell>
         <mxCell id="cNm6hTwsuUSb0vqnxcLP-42" value="Room1=[job1,job2,job3]&lt;br&gt;job1=30s miss_time=5s time_start=0s&lt;br&gt;job2=20s miss_time=0s time_start=30s&lt;br&gt;job3=10s miss_time=0s time_start=40s" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="210" width="258" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="cNm6hTwsuUSb0vqnxcLP-43" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;This leads to the case of having to update the working time of job1 and update the start time of the jobs afterwards.&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=#FFFFFF;fontSize=13;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="290" y="450" width="370" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
