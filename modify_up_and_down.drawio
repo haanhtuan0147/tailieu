@@ -1,12 +1,9 @@
-<mxfile host="app.diagrams.net" modified="2022-11-18T02:28:56.176Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="J9Z6xsVTRDlj5x571VLF" version="20.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-18T02:31:38.382Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="JrTDPkPKGrBv5NOT6niN" version="20.5.1" type="github">
   <diagram id="RsbQqtbDM5Cp6RjnX3xr" name="Page-1">
     <mxGraphModel dx="1314" dy="1620" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="583" pageHeight="413" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="cNm6hTwsuUSb0vqnxcLP-4" value="Room1=[job1,job2,job3]&lt;br&gt;job1=30s miss_time=0s time_start=0s&lt;br&gt;job2=20s miss_time=0s time_start=30s&lt;br&gt;job3=10s miss_time=0s time_start=40s" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="201" y="-320" width="258" height="120" as="geometry" />
-        </mxCell>
         <mxCell id="cNm6hTwsuUSb0vqnxcLP-5" value="job1=30s miss_time=0" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="10" y="-120" width="300" height="40" as="geometry" />
         </mxCell>
@@ -85,9 +82,6 @@
         <mxCell id="cNm6hTwsuUSb0vqnxcLP-41" value="spells:&lt;br&gt;+ Room is a room work&lt;br&gt;+ job is a customer whose work time in the&amp;nbsp;room in seconds&lt;br&gt;+ miss_time is time&amp;nbsp;working longer than expected&lt;br&gt;+ time_start is the time of job start work&amp;nbsp;&lt;br&gt;+&amp;nbsp;When it finishes all the jobs in the room, it will repeat the previous jobs according to the predetermined schedule" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;fontSize=13;fontColor=#000000;align=left;" vertex="1" parent="1">
           <mxGeometry x="180" y="-520" width="380" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="cNm6hTwsuUSb0vqnxcLP-42" value="Room1=[job1,job2,job3]&lt;br&gt;job1=30s miss_time=5s time_start=0s&lt;br&gt;job2=20s miss_time=0s time_start=30s&lt;br&gt;job3=10s miss_time=0s time_start=40s" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="210" width="258" height="120" as="geometry" />
-        </mxCell>
         <mxCell id="cNm6hTwsuUSb0vqnxcLP-43" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;This leads to the case of having to update the working time of job1 and update the start time of the jobs afterwards.&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=#FFFFFF;fontSize=13;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="213" y="460" width="370" height="40" as="geometry" />
         </mxCell>
@@ -154,8 +148,14 @@
         <mxCell id="cNm6hTwsuUSb0vqnxcLP-79" value="&lt;div&gt;&lt;span style=&quot;font-size: 40px;&quot;&gt;logic applied to the problem&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=#FFFFFF;fontSize=24;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="459" y="930" width="521" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="cNm6hTwsuUSb0vqnxcLP-80" value="Room1=[job1,job2,job3]&lt;br&gt;job1=30s miss_time=4s time_start=0s&lt;br&gt;job2=20s miss_time=4s time_start=30s&lt;br&gt;job3=10s miss_time=4s time_start=40s" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="1030" width="258" height="120" as="geometry" />
+        <mxCell id="cNm6hTwsuUSb0vqnxcLP-80" value="Room1=[job1,job2,job3]&lt;br&gt;job1=30s miss_time=0s time_start=0s time_repeat=40s&lt;br&gt;job2=20s miss_time=0s time_start=30s time_repeat=40s&lt;br&gt;job3=10s miss_time=0s time_start=40s time_repeat=40s" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="554.25" y="1033" width="380" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="cNm6hTwsuUSb0vqnxcLP-81" value="Room1=[job1,job2,job3]&lt;br&gt;job1=30s miss_time=0s time_start=0s time_repeat=40s&lt;br&gt;job2=20s miss_time=0s time_start=30s time_repeat=40s&lt;br&gt;job3=10s miss_time=0s time_start=40s time_repeat=40s" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="149" y="-320" width="380" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="cNm6hTwsuUSb0vqnxcLP-82" value="Room1=[job1,job2,job3]&lt;br&gt;job1=30s miss_time=5s time_start=0s time_repeat=40s&lt;br&gt;job2=20s miss_time=0s time_start=30s time_repeat=40s&lt;br&gt;job3=10s miss_time=0s time_start=40s time_repeat=40s" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="157.5" y="5" width="380" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
