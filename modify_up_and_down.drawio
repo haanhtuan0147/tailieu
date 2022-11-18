@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-18T02:31:38.382Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="JrTDPkPKGrBv5NOT6niN" version="20.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-18T02:34:07.260Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="nh1P_yvXQLBSIcT1v8Cr" version="20.5.1" type="github">
   <diagram id="RsbQqtbDM5Cp6RjnX3xr" name="Page-1">
     <mxGraphModel dx="1314" dy="1620" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="583" pageHeight="413" math="0" shadow="0">
       <root>
@@ -89,73 +89,76 @@
           <mxGeometry x="262.5" y="520" width="215" height="30" as="geometry" />
         </mxCell>
         <mxCell id="cNm6hTwsuUSb0vqnxcLP-45" value="job1=30s miss_time=5" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="10" y="560" width="300" height="40" as="geometry" />
+          <mxGeometry x="20" y="736" width="300" height="40" as="geometry" />
         </mxCell>
         <mxCell id="cNm6hTwsuUSb0vqnxcLP-46" value="job2=20s miss_time=0" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="410" y="560" width="240" height="40" as="geometry" />
+          <mxGeometry x="420" y="736" width="240" height="40" as="geometry" />
         </mxCell>
         <mxCell id="cNm6hTwsuUSb0vqnxcLP-47" value="job3=10s miss_time=0" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="650" y="560" width="160" height="40" as="geometry" />
+          <mxGeometry x="660" y="736" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="cNm6hTwsuUSb0vqnxcLP-48" value="job1=30s miss_time=5" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="800" y="560" width="300" height="40" as="geometry" />
+          <mxGeometry x="810" y="736" width="300" height="40" as="geometry" />
         </mxCell>
         <mxCell id="cNm6hTwsuUSb0vqnxcLP-49" value="job2=20s miss_time=0" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1200" y="560" width="240" height="40" as="geometry" />
+          <mxGeometry x="1210" y="736" width="240" height="40" as="geometry" />
         </mxCell>
         <mxCell id="cNm6hTwsuUSb0vqnxcLP-50" value="job3=10s miss_time=0" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1440" y="560" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="cNm6hTwsuUSb0vqnxcLP-51" value="miss_time of job1 =5" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="560" width="100" height="40" as="geometry" />
+          <mxGeometry x="320" y="736" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="cNm6hTwsuUSb0vqnxcLP-52" value="miss_time of job1 =5" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1100" y="560" width="100" height="40" as="geometry" />
+          <mxGeometry x="1110" y="736" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="cNm6hTwsuUSb0vqnxcLP-53" value="After the time is up, you can let job2 work without fear of being missed and not working" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=#FFFFFF;fontSize=13;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="241.75" y="640" width="312.5" height="30" as="geometry" />
+          <mxGeometry x="251.75" y="816" width="312.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="cNm6hTwsuUSb0vqnxcLP-54" value="&lt;div&gt;then it will return to normal running state&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=#FFFFFF;fontSize=13;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="220.87" y="730" width="348.25" height="30" as="geometry" />
+          <mxGeometry x="230.87" y="906" width="348.25" height="30" as="geometry" />
         </mxCell>
         <mxCell id="cNm6hTwsuUSb0vqnxcLP-63" value="State Down When job stop Over Load" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="287.5" y="690" width="215" height="30" as="geometry" />
+          <mxGeometry x="297.5" y="866" width="215" height="30" as="geometry" />
         </mxCell>
         <mxCell id="cNm6hTwsuUSb0vqnxcLP-71" value="job1=30s miss_time=0" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="10" y="810" width="300" height="40" as="geometry" />
+          <mxGeometry x="20" y="986" width="300" height="40" as="geometry" />
         </mxCell>
         <mxCell id="cNm6hTwsuUSb0vqnxcLP-72" value="job2=20s miss_time=0" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="810" width="240" height="40" as="geometry" />
+          <mxGeometry x="320" y="986" width="240" height="40" as="geometry" />
         </mxCell>
         <mxCell id="cNm6hTwsuUSb0vqnxcLP-73" value="job3=10s miss_time=0" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="550" y="810" width="160" height="40" as="geometry" />
+          <mxGeometry x="560" y="986" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="cNm6hTwsuUSb0vqnxcLP-74" value="job1=30s miss_time=0" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="700" y="810" width="300" height="40" as="geometry" />
+          <mxGeometry x="710" y="986" width="300" height="40" as="geometry" />
         </mxCell>
         <mxCell id="cNm6hTwsuUSb0vqnxcLP-75" value="job2=20s miss_time=0" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1000" y="810" width="240" height="40" as="geometry" />
+          <mxGeometry x="1010" y="986" width="240" height="40" as="geometry" />
         </mxCell>
         <mxCell id="cNm6hTwsuUSb0vqnxcLP-76" value="job3=10s miss_time=0" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1240" y="810" width="160" height="40" as="geometry" />
+          <mxGeometry x="1250" y="986" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="cNm6hTwsuUSb0vqnxcLP-77" value="State Normal" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="339.99" y="770" width="110" height="30" as="geometry" />
+          <mxGeometry x="349.99" y="946" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="cNm6hTwsuUSb0vqnxcLP-78" value="&lt;font style=&quot;font-size: 40px;&quot;&gt;ideas about logic&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=#FFFFFF;fontSize=24;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="449.99" y="-680" width="417" height="30" as="geometry" />
         </mxCell>
         <mxCell id="cNm6hTwsuUSb0vqnxcLP-79" value="&lt;div&gt;&lt;span style=&quot;font-size: 40px;&quot;&gt;logic applied to the problem&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=#FFFFFF;fontSize=24;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="459" y="930" width="521" height="30" as="geometry" />
+          <mxGeometry x="469" y="1106" width="521" height="30" as="geometry" />
         </mxCell>
         <mxCell id="cNm6hTwsuUSb0vqnxcLP-80" value="Room1=[job1,job2,job3]&lt;br&gt;job1=30s miss_time=0s time_start=0s time_repeat=40s&lt;br&gt;job2=20s miss_time=0s time_start=30s time_repeat=40s&lt;br&gt;job3=10s miss_time=0s time_start=40s time_repeat=40s" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="554.25" y="1033" width="380" height="120" as="geometry" />
+          <mxGeometry x="564.25" y="1209" width="380" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="cNm6hTwsuUSb0vqnxcLP-81" value="Room1=[job1,job2,job3]&lt;br&gt;job1=30s miss_time=0s time_start=0s time_repeat=40s&lt;br&gt;job2=20s miss_time=0s time_start=30s time_repeat=40s&lt;br&gt;job3=10s miss_time=0s time_start=40s time_repeat=40s" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="cNm6hTwsuUSb0vqnxcLP-81" value="Room1=[job1,job2,job3]&lt;br&gt;job1=30s miss_time=0s time_start=0s time_repeat=60s&lt;br&gt;job2=20s miss_time=0s time_start=30s time_repeat=60s&lt;br&gt;job3=10s miss_time=0s time_start=50s time_repeat=60s" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="149" y="-320" width="380" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="cNm6hTwsuUSb0vqnxcLP-82" value="Room1=[job1,job2,job3]&lt;br&gt;job1=30s miss_time=5s time_start=0s time_repeat=40s&lt;br&gt;job2=20s miss_time=0s time_start=30s time_repeat=40s&lt;br&gt;job3=10s miss_time=0s time_start=40s time_repeat=40s" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="cNm6hTwsuUSb0vqnxcLP-82" value="Room1=[job1,job2,job3]&lt;br&gt;job1=30s miss_time=5s time_start=0s time_repeat=60s&lt;br&gt;job2=20s miss_time=0s time_start=30s time_repeat=60s&lt;br&gt;job3=10s miss_time=0s time_start=50s time_repeat=60s" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="157.5" y="5" width="380" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="cNm6hTwsuUSb0vqnxcLP-83" value="Room1=[job1,job2,job3]&lt;br&gt;job1=30s miss_time=5s time_start=0s time_repeat=65s&lt;br&gt;job2=20s miss_time=0s time_start=35s time_repeat=65s&lt;br&gt;job3=10s miss_time=0s time_start=55s time_repeat=65s" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="203" y="560" width="380" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
