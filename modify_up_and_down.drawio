@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-18T02:46:59.461Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="Xcqqbd-gXhxZdeH1tHLF" version="20.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-18T02:59:02.655Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="mKrJIRuXJHEbAXFxK0XN" version="20.5.1" type="github">
   <diagram id="RsbQqtbDM5Cp6RjnX3xr" name="Page-1">
     <mxGraphModel dx="1314" dy="1620" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="583" pageHeight="413" math="0" shadow="0">
       <root>
@@ -172,11 +172,17 @@
         <mxCell id="cNm6hTwsuUSb0vqnxcLP-90" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;fontColor=#000000;" edge="1" parent="1" source="cNm6hTwsuUSb0vqnxcLP-87" target="cNm6hTwsuUSb0vqnxcLP-89">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="cNm6hTwsuUSb0vqnxcLP-87" value="sort job run before and check job before&amp;nbsp;finished yet? if True&amp;nbsp;keep working on schedule else&amp;nbsp;update miss_time, time_start,time_repeat" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;fontSize=13;fontColor=#000000;" vertex="1" parent="1">
+        <mxCell id="cNm6hTwsuUSb0vqnxcLP-87" value="sort job run before and check job before&amp;nbsp;finished yet? if True&amp;nbsp;keep working on schedule else&amp;nbsp;update miss_time, time_start,time_repeat more 10 seconds" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;fontSize=13;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="575" y="1540" width="330" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="cNm6hTwsuUSb0vqnxcLP-92" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;fontColor=#000000;" edge="1" parent="1" source="cNm6hTwsuUSb0vqnxcLP-89" target="cNm6hTwsuUSb0vqnxcLP-91">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cNm6hTwsuUSb0vqnxcLP-89" value="End job1" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;fontSize=13;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="640" y="1640" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="cNm6hTwsuUSb0vqnxcLP-91" value="&lt;div style=&quot;text-align: center;&quot;&gt;check&amp;nbsp;time to get the job done&lt;/div&gt;if job1+time_miss&amp;gt;=time done and miss_time&amp;gt;0 &lt;br&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;if time_done&amp;lt;job1&lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;update time_miss=0&lt;br&gt;else&lt;/blockquote&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&amp;nbsp; &amp;nbsp;update time miss=(job1+time_miss)-time_done" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;fontSize=13;fontColor=#000000;align=left;" vertex="1" parent="1">
+          <mxGeometry x="552.5" y="1730" width="375" height="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
