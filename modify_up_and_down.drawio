@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-18T02:45:46.696Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="Y5nhz6V9OjTEFmCb102D" version="20.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-18T02:45:53.416Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="VykJzdrZShAH3FMtdd2O" version="20.5.1" type="github">
   <diagram id="RsbQqtbDM5Cp6RjnX3xr" name="Page-1">
     <mxGraphModel dx="1314" dy="1620" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="583" pageHeight="413" math="0" shadow="0">
       <root>
@@ -167,7 +167,7 @@
           <mxGeometry x="640" y="1440" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="cNm6hTwsuUSb0vqnxcLP-87" value="sort job run before and check job before&amp;nbsp;finished yet? if True&amp;nbsp;keep working on schedule else&amp;nbsp;update miss_time, time_start,time_repeat" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;fontSize=13;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="640" y="1510" width="330" height="50" as="geometry" />
+          <mxGeometry x="590" y="1510" width="330" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
