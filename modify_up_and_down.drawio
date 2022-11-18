@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-18T01:45:31.709Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="wqR95PDI3ihHfDQYVLYm" version="20.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-18T01:45:39.428Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="GH9zFDKWBB6GxA34kdEs" version="20.5.1" type="github">
   <diagram id="RsbQqtbDM5Cp6RjnX3xr" name="Page-1">
     <mxGraphModel dx="1422" dy="1207" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="583" pageHeight="413" math="0" shadow="0">
       <root>
@@ -76,14 +76,8 @@
         <mxCell id="cNm6hTwsuUSb0vqnxcLP-34" value="State Normal Over Load" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="275" y="220" width="145" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="cNm6hTwsuUSb0vqnxcLP-35" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="500" y="440" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="cNm6hTwsuUSb0vqnxcLP-36" value="miss_time of job1 =5" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="257" width="100" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="cNm6hTwsuUSb0vqnxcLP-37" value="job1=30s miss_time=5" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="610" y="440" width="300" height="40" as="geometry" />
         </mxCell>
         <mxCell id="cNm6hTwsuUSb0vqnxcLP-38" value="miss_time of job1 =5" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1000" y="297" width="100" height="40" as="geometry" />
