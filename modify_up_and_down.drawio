@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-18T01:44:37.252Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="Jq6hoMBIdTyKm1goyDoo" version="20.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-18T01:44:52.462Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="iVGY_Gn2KeDsetsERPLX" version="20.5.1" type="github">
   <diagram id="RsbQqtbDM5Cp6RjnX3xr" name="Page-1">
     <mxGraphModel dx="1422" dy="1207" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="583" pageHeight="413" math="0" shadow="0">
       <root>
@@ -80,7 +80,7 @@
           <mxGeometry x="500" y="440" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cNm6hTwsuUSb0vqnxcLP-36" value="miss_time of job1 =5" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="257" width="110" height="40" as="geometry" />
+          <mxGeometry x="310" y="257" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
