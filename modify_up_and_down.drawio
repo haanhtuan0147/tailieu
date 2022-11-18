@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-18T02:00:09.351Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="Xfv_oEs4K60RUW3lohrO" version="20.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-18T02:00:53.805Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="j9Hx6qT92QWYtSTNzIqw" version="20.5.1" type="github">
   <diagram id="RsbQqtbDM5Cp6RjnX3xr" name="Page-1">
     <mxGraphModel dx="1422" dy="1207" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="583" pageHeight="413" math="0" shadow="0">
       <root>
@@ -85,7 +85,7 @@
         <mxCell id="cNm6hTwsuUSb0vqnxcLP-39" value="This leads to job2 being missed and not working" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="275" y="413" width="300" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="cNm6hTwsuUSb0vqnxcLP-41" value="spells:&lt;br&gt;+ Room is a worker room&lt;br&gt;+ job is a customer whose work time in the&amp;nbsp;room in seconds&lt;br&gt;+ miss_time is time&amp;nbsp;working longer than expected" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;fontSize=13;fontColor=#000000;align=left;" vertex="1" parent="1">
+        <mxCell id="cNm6hTwsuUSb0vqnxcLP-41" value="spells:&lt;br&gt;+ Room is a room work&lt;br&gt;+ job is a customer whose work time in the&amp;nbsp;room in seconds&lt;br&gt;+ miss_time is time&amp;nbsp;working longer than expected" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;fontSize=13;fontColor=#000000;align=left;" vertex="1" parent="1">
           <mxGeometry x="520" y="-320" width="380" height="120" as="geometry" />
         </mxCell>
       </root>
