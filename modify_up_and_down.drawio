@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-18T01:32:11.767Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="1JYRuJPYPQ0SOF7Ivt41" version="20.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-18T01:33:07.333Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="YugqfLYJGAQEQV9YosKg" version="20.5.1" type="github">
   <diagram id="RsbQqtbDM5Cp6RjnX3xr" name="Page-1">
     <mxGraphModel dx="1422" dy="1207" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="583" pageHeight="413" math="0" shadow="0">
       <root>
@@ -16,7 +16,7 @@
         <mxCell id="cNm6hTwsuUSb0vqnxcLP-3" value="if job" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="60" y="180" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="cNm6hTwsuUSb0vqnxcLP-4" value="Room1=[job1,job2,job3]&lt;br&gt;Room2=[job5,job6,job7]" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="cNm6hTwsuUSb0vqnxcLP-4" value="Room1=[job1,job2,job3]&lt;br&gt;job1=30s&lt;br&gt;job2=10s&lt;br&gt;job3=5s" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="172" y="-140" width="258" height="120" as="geometry" />
         </mxCell>
       </root>
