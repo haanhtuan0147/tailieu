@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-18T02:36:22.746Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="T4QwDT0NKjQK4eNegirf" version="20.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-18T02:37:44.011Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="zI3QiCvv8jTxR2H6Qy-j" version="20.5.1" type="github">
   <diagram id="RsbQqtbDM5Cp6RjnX3xr" name="Page-1">
     <mxGraphModel dx="1314" dy="1620" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="583" pageHeight="413" math="0" shadow="0">
       <root>
@@ -79,8 +79,8 @@
         <mxCell id="cNm6hTwsuUSb0vqnxcLP-39" value="This leads to job2 being missed and not working" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="245" y="423" width="300" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="cNm6hTwsuUSb0vqnxcLP-41" value="spells:&lt;br&gt;+ Room is a room work&lt;br&gt;+ job is a customer whose work time in the&amp;nbsp;room in seconds&lt;br&gt;+ miss_time is time&amp;nbsp;working longer than expected&lt;br&gt;+ time_start is the time of job start work&amp;nbsp;&lt;br&gt;+&amp;nbsp;When it finishes all the jobs in the room, it will repeat the previous jobs according to the predetermined schedule" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;fontSize=13;fontColor=#000000;align=left;" vertex="1" parent="1">
-          <mxGeometry x="180" y="-520" width="380" height="120" as="geometry" />
+        <mxCell id="cNm6hTwsuUSb0vqnxcLP-41" value="spells:&lt;br&gt;+ Room is a room work&lt;br&gt;+ job is a customer whose work time in the&amp;nbsp;room in seconds&lt;br&gt;+ miss_time is time&amp;nbsp;working longer than expected&lt;br&gt;+ time_start is the time of job start work&amp;nbsp;&lt;br&gt;+&amp;nbsp;When it finishes all the jobs in the room, it will repeat the previous jobs according to the predetermined schedule&lt;br&gt;+ time_repeat is time repeat work of job" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;fontSize=13;fontColor=#000000;align=left;" vertex="1" parent="1">
+          <mxGeometry x="165" y="-600" width="380" height="170" as="geometry" />
         </mxCell>
         <mxCell id="cNm6hTwsuUSb0vqnxcLP-43" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;This leads to the case of having to update the working time of job1 and update the start time of the jobs afterwards.&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=#FFFFFF;fontSize=13;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="213" y="460" width="370" height="40" as="geometry" />
