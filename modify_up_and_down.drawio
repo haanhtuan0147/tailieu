@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-18T02:17:52.131Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="Atmo9yaQiq492Pquz7_J" version="20.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-18T02:19:00.437Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="Cs94RW8WI9ue6ShD_KS1" version="20.5.1" type="github">
   <diagram id="RsbQqtbDM5Cp6RjnX3xr" name="Page-1">
     <mxGraphModel dx="1422" dy="1620" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="583" pageHeight="413" math="0" shadow="0">
       <root>
@@ -122,7 +122,7 @@
           <mxGeometry x="241.75" y="640" width="312.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="cNm6hTwsuUSb0vqnxcLP-54" value="&lt;div&gt;then the down state when the working time returns to normal&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=#FFFFFF;fontSize=13;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="241.75" y="690" width="348.25" height="30" as="geometry" />
+          <mxGeometry x="235" y="690" width="348.25" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
