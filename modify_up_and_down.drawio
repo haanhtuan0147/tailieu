@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-18T02:22:58.406Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="WqB5Ae1ZjuFtsD0pAOMp" version="20.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-18T02:27:50.746Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="saVmWAXX3snOycPoCqYP" version="20.5.1" type="github">
   <diagram id="RsbQqtbDM5Cp6RjnX3xr" name="Page-1">
     <mxGraphModel dx="1314" dy="1620" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="583" pageHeight="413" math="0" shadow="0">
       <root>
@@ -147,6 +147,12 @@
         </mxCell>
         <mxCell id="cNm6hTwsuUSb0vqnxcLP-77" value="State Normal" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="339.99" y="770" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cNm6hTwsuUSb0vqnxcLP-78" value="&lt;font style=&quot;font-size: 40px;&quot;&gt;ideas about logic&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=#FFFFFF;fontSize=24;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="449.99" y="-680" width="417" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cNm6hTwsuUSb0vqnxcLP-79" value="&lt;div&gt;&lt;span style=&quot;font-size: 40px;&quot;&gt;logic applied to the problem&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=#FFFFFF;fontSize=24;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="459" y="930" width="521" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
